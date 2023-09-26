@@ -5,7 +5,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 import time
 from selenium.common.exceptions import TimeoutException
-import csv
 import pandas as pd
 import bs4
 
