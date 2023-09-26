@@ -13,4 +13,4 @@ To use the script, simply run it in a terminal or command prompt. The script wil
 ### Example
 
 ```python
-python amazon_scraper.py
+python Amazon-Web-Scraper.py
